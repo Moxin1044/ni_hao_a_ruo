@@ -15,11 +15,17 @@ KEYWORDS = [
     ("hi阿若", "zh-CN-XiaoxiaoNeural", "test_hi_aruo.wav"),
     ("hi aura", "en-US-AriaNeural", "test_hi_aura.wav"),
     ("欧若", "zh-CN-XiaoxiaoNeural", "test_ou_ruo.wav"),
+    ("你好欧若", "zh-CN-XiaoxiaoNeural", "test_ni_hao_ou_ruo.wav"),
     ("oh ro", "en-US-AriaNeural", "test_ou_ro.wav"),
     ("oh ra", "en-US-AriaNeural", "test_ou_ra.wav"),
     ("欧如", "zh-CN-XiaoxiaoNeural", "test_ou_ru.wav"),
     ("ah ro", "en-US-AriaNeural", "test_a_ro.wav"),
     ("ah ra", "en-US-AriaNeural", "test_a_ra.wav"),
+    ("hi oh ro", "en-US-AriaNeural", "test_hi_ou_ro.wav"),
+    ("hi oh ra", "en-US-AriaNeural", "test_hi_ou_ra.wav"),
+    ("hi欧如", "zh-CN-XiaoxiaoNeural", "test_hi_ou_ru.wav"),
+    ("hi ah ro", "en-US-AriaNeural", "test_hi_a_ro.wav"),
+    ("hi ah ra", "en-US-AriaNeural", "test_hi_a_ra.wav"),
 ]
 
 # Sentences containing keywords for more realistic testing

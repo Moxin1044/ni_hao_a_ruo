@@ -3,8 +3,14 @@ AO1 R AH0 @aura
 HH AY1 ā r uò @hi阿若
 HH AY1 AO1 R AH0 @hi_aura
 ōu r uò @欧若
+n ǐ h ǎo ōu r uò @你好欧若
 AA1 R OW0 @欧ro
 AA1 R AH0 @欧ra
 ōu r ú @欧ru
 AA1 R OW0 @啊ro
 AA1 R AH0 @啊ra
+HH AY1 AA1 R OW0 @hi欧ro
+HH AY1 AA1 R AH0 @hi欧ra
+HH AY1 ōu r ú @hi欧ru
+HH AY1 AA1 R OW0 @hi啊ro
+HH AY1 AA1 R AH0 @hi啊ra
