@@ -14,6 +14,12 @@ KEYWORDS = [
     ("aura", "en-US-AriaNeural", "test_aura.wav"),
     ("hi阿若", "zh-CN-XiaoxiaoNeural", "test_hi_aruo.wav"),
     ("hi aura", "en-US-AriaNeural", "test_hi_aura.wav"),
+    ("欧若", "zh-CN-XiaoxiaoNeural", "test_ou_ruo.wav"),
+    ("oh ro", "en-US-AriaNeural", "test_ou_ro.wav"),
+    ("oh ra", "en-US-AriaNeural", "test_ou_ra.wav"),
+    ("欧如", "zh-CN-XiaoxiaoNeural", "test_ou_ru.wav"),
+    ("ah ro", "en-US-AriaNeural", "test_a_ro.wav"),
+    ("ah ra", "en-US-AriaNeural", "test_a_ra.wav"),
 ]
 
 # Sentences containing keywords for more realistic testing
@@ -22,6 +28,7 @@ SENTENCES = [
     ("The aura of the place was amazing.", "en-US-AriaNeural", "test_sentence_aura.wav"),
     ("hi阿若,你好吗?", "zh-CN-XiaoxiaoNeural", "test_sentence_hi_aruo.wav"),
     ("Hi aura, how are you today?", "en-US-AriaNeural", "test_sentence_hi_aura.wav"),
+    ("欧若,你好吗?", "zh-CN-XiaoxiaoNeural", "test_sentence_ou_ruo.wav"),
 ]
 
 

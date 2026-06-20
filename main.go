@@ -31,7 +31,7 @@ func buildKWSConfig(modelDir, keywordsFile string, numThreads int, debug int) *s
 		MaxActivePaths:    4,
 		KeywordsFile:      keywordsFile,
 		KeywordsScore:     1.5,
-		KeywordsThreshold: 0.1,
+		KeywordsThreshold: 0.05,
 	}
 	return cfg
 }
